@@ -1,0 +1,33 @@
+.recomented-all{
+    flex-basis: 30%;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+.recomented{
+    background-color: #f7f7f7;
+    display: flex;
+    margin-top: 20px;
+}
+
+.recomented img{
+    width: 49%;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+
+.recomented div{
+    width: 39%;
+}
+
+.recomented div h2{
+    font-size: 18px;
+    font-weight: 700;
+}
+.recomented div h3{
+    color: #5a5a5a;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: 550;
+}

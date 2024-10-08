@@ -1,0 +1,27 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(255px,1fr));
+    grid-column-gap: 16px;
+    grid-row-gap: 30px;
+    margin-top: 88px;
+    width: 100%;
+    padding: 2px;
+}
+
+.cart img{
+    width: 100%;
+}
+
+.cart h2{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.cart h3{
+    font-size: 14px;
+    color: #333;
+    font-weight: 550;
+} 
+.cart p{
+    font-size: 14px;
+}

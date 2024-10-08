@@ -1,0 +1,72 @@
+.SideAll{
+    width: 15%;
+    background-color: #fff;
+    height: 100vh;
+    position: fixed;
+    top:0;    
+    padding-left: 2%;
+    margin-top: 73.3px;
+    flex-wrap: wrap;
+}
+
+.sidebar{
+    padding: 15px;
+}
+.sidebar .active i{
+    border-bottom: 3px solid  red;
+    padding-bottom:2px ;
+
+}
+.side-left{
+    display: flex;
+    align-items: center;
+    padding-bottom: 23px;
+    font-size: 20px;
+    font-weight: 500;
+    color: gray;
+    cursor: pointer;
+    flex-wrap: wrap;
+    width: fit-content;
+}
+
+.side-left i{
+    margin-right: 22px;
+    color: gray;
+}
+
+.side-left p{
+    color: black;
+}
+
+.SideAll hr{
+    width: 85%;
+    margin-bottom: 10px;
+}
+
+.but-sidebar{
+    width: 5%;
+}
+
+.but-sidebar p{
+    display: none;
+}
+
+.but-sidebar hr{
+    width: 50%;
+}
+
+.subsucrib{
+    display: flex;
+    align-items: center;
+    margin-top: 14px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.subs-left .subsucrib img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 15px;
+
+}

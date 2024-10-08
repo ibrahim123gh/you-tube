@@ -1,0 +1,14 @@
+.home{
+    padding-left: 16%;
+    width: 100%;
+    background-color: #f9f9f9;
+    height: 100%;
+}
+.side-home{
+padding-left: 7%;
+}
+
+.home-all{
+    display: flex;
+}
+
